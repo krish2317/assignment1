@@ -1,0 +1,75 @@
+/* Krish Chaudhary */
+/* 8912317*/
+
+body{
+
+    max-width: 120vw;
+    width:100vw;
+
+    font: normal normal normal 15px/1.5 Verdana, Arial,Helvetica,sans-serif;
+    background-color: rgb(180, 249, 190);
+
+    margin: auto ;
+    padding: 15px;
+    font: normal normal normal 15px/1.5 Verdana, Arial,Helvetica,sans-serif ;
+}
+.ok{
+    padding:15px;
+    margin: 10px;
+    border: 15px solid blueviolet;
+    border-radius: 15px;
+
+}
+h1{
+ color: #000;   
+ font-variant:small-caps ;
+}
+h2{
+    color: #f0f;
+    font-variant: small-caps;
+}
+footer p{
+   font-size: 15px;
+   color: blue;   
+}
+main{
+    float: left;
+    width: 65%;
+    padding: 15px;
+    margin: 10px;
+
+}
+aside{
+    float:right;
+    padding: 10px;
+    margin: 11px;
+}
+footer{
+    clear: both;
+}
+.maining{
+    border: 3.3px solid rgb(45,12,56);
+    width: 300px;
+
+}
+figcaption{
+    font-style: bold;
+    font-variant: small-caps;
+}
+q{
+    font-family: cursive;
+    font-weight: italic;
+    font-size: 1.3em;
+}
+ul li{
+    list-style: none;
+    list-style:1.5em;
+
+}
+ul>li>a{
+    text-decoration: none;
+    color:rgb(0, 4, 4);
+}
+a:hover{
+    color: rgb(93, 159, 228);
+}
